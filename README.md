@@ -1,0 +1,2 @@
+# FTL-Open-Benchmark-Frequency-Reconstruction-of-Public-Scientific-Data
+A living open-benchmark that re-analyzes publicly available quantum, material, and energy datasets through the Frequency Translation Layer (FTL) framework. Each entry demonstrates how frequency-domain reconstruction can reveal hidden physical correlations — bridging classical and quantum metrology. Open, verifiable, and resonance-driven.
